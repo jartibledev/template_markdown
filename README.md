@@ -34,6 +34,9 @@ You can install this app with the folowing command:
 git clone repository
 git other steps
 ```
+## Usage 
+### How to use the software
+### How to use the module
 
 ## Issues
 
@@ -57,12 +60,15 @@ git other steps
 
 ## About the author 
 
+
 ## Developement
+
 ### Install Requirement
 
 ### How to Build the Software
 
 ### How to Build the Module
+
 
 ## Copyright
 
