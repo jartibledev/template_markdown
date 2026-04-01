@@ -17,14 +17,23 @@ Body :El reconocido experto de software Robert C. Martin, junto con sus colegas 
 <!-- Index -->
 ## Index
 [How to install app](#how-to-install-app) <br/>
-[How to use the app](#how-to-use-the-app) <br/>
+[How to use the app](#functions) <br/>
 [Issues](#issues) <br/>
 [How I made this project](#how-i-made-this-project)<br/>
 
+## Functions
+| | |
+|:---:| :---: |
+| ![gif](https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif) | ![gif](https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif) |
+| meme function | also meme function |
+
 <!-- Instructions -->
 ## How to install app
-
-## How to use the app
+You can install this app with the folowing command:
+```
+git clone repository
+git other steps
+```
 
 ## Issues
 
@@ -42,3 +51,25 @@ Body :El reconocido experto de software Robert C. Martin, junto con sus colegas 
   ### Architecture design
   ### UI Design
   ### Code tutorial
+
+## Get information 
+
+
+## About the author 
+
+## Developement
+### Install Requirement
+
+### How to Build the Software
+
+### How to Build the Module
+
+## Copyright
+
+## License
+
+## Contributing
+
+## More information
+
+
